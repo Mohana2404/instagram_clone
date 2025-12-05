@@ -1,0 +1,299 @@
+{
+  "posts": [
+    {
+      "id": "p001",
+      "user_id": "u001",
+      "username": "naruto_uzumaki",
+      "profile_pic": "/assets/Uzumaki.Naruto.1024.4304601.webp",
+      "image_url": "/assets/naruto-eating-ramen-art-s3qdy0wosm6iozfm.jpg",
+      "caption": "Ramen with the squad 🍜 #Ichiraku",
+      "likes": [
+        "u002",
+        "u003",
+        "u004"
+      ],
+      "likes_count": 3,
+      "comments": [
+        {
+          "user_id": "u002",
+          "text": "Save me a bowl next time!"
+        },
+        {
+          "user_id": "u003",
+          "text": "Looks delicious!"
+        }
+      ],
+      "timestamp": "2025-11-10T14:30:00Z"
+    },
+    {
+      "id": "p002",
+      "user_id": "u004",
+      "username": "light_kira",
+      "profile_pic": "/assets/Yagami.Light.1024.1422624.webp",
+      "image_url": "/assets/7269773.jpg",
+      "caption": "Another name, another step toward justice. #Kira",
+      "likes": [
+        "u005",
+        "u006"
+      ],
+      "likes_count": 2,
+      "comments": [
+        {
+          "user_id": "u005",
+          "text": "You dropped your apple 🍎"
+        },
+        {
+          "user_id": "u006",
+          "text": "Justice is a beautiful illusion."
+        }
+      ],
+      "timestamp": "2025-11-09T22:00:00Z"
+    },
+    {
+      "id": "p003",
+      "user_id": "u006",
+      "username": "johan_liebert",
+      "profile_pic": "/assets/3139af7674efd089e7646946db150d22.jpg",
+      "image_url": "/assets/2d464c7e3d4d7cca912e41ab13f7b819.jpg",
+      "caption": "Do you know what fear truly is?",
+      "likes": [
+        "u004",
+        "u007"
+      ],
+      "likes_count": 2,
+      "comments": [
+        {
+          "user_id": "u007",
+          "text": "I won't stop until I find you."
+        }
+      ],
+      "timestamp": "2025-11-08T18:45:00Z"
+    },
+    {
+      "id": "p004",
+      "user_id": "u003",
+      "username": "goku_ssj",
+      "profile_pic": "/assets/Son.Goku.(DRAGON.BALL).1024.4301833.webp",
+      "image_url": "/assets/Gravity-Chamber.jpg",
+      "caption": "Gravity chamber grind 💥 #SaiyanMode",
+      "likes": [
+        "u001",
+        "u002"
+      ],
+      "likes_count": 2,
+      "comments": [
+        {
+          "user_id": "u001",
+          "text": "Train me next time!"
+        }
+      ],
+      "timestamp": "2025-11-09T09:15:00Z"
+    },
+    {
+      "id": "p005",
+      "user_id": "u007",
+      "username": "dr_tenma",
+      "profile_pic": "/assets//Tenma.Kenzo.1024.648894.webp",
+      "image_url": "/assets/Dr-Tenma-monster.jpg",
+      "caption": "Another life saved. But the hunt continues. 🏥",
+      "likes": [
+        "u006"
+      ],
+      "likes_count": 1,
+      "comments": [
+        {
+          "user_id": "u006",
+          "text": "You're always one step behind."
+        }
+      ],
+      "timestamp": "2025-11-07T16:20:00Z"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "p001",
+      "user_id": "u001",
+      "username": "naruto_uzumaki",
+      "profile_pic": "/assets/Uzumaki.Naruto.1024.4304601.webp"
+    },
+    {
+      "id": "p002",
+      "user_id": "u004",
+      "username": "light_kira",
+      "profile_pic": "/assets/Yagami.Light.1024.1422624.webp"
+    },
+    {
+      "id": "p003",
+      "user_id": "u006",
+      "username": "johan_liebert",
+      "profile_pic": "/assets/3139af7674efd089e7646946db150d22.jpg"
+    },
+    {
+      "id": "p004",
+      "user_id": "u003",
+      "username": "goku_ssj",
+      "profile_pic": "/assets/Son.Goku.(DRAGON.BALL).1024.4301833.webp"
+    },
+    {
+      "id": "p005",
+      "user_id": "u007",
+      "username": "dr_tenma",
+      "profile_pic": "/assets/Tenma.Kenzo.1024.648894.webp"
+    }
+  ],
+  "profile": {
+    "id": "p003",
+    "user_id": "u006",
+    "username": "johan_liebert",
+    "profile_pic": "/assets/3139af7674efd089e7646946db150d22.jpg"
+  },
+  "stories": [
+    {
+      "id": "1",
+      "user_id": "u001",
+      "username": "naruto_uzumaki",
+      "profile_pic": "/assets/naruto-eating-ramen-art-s3qdy0wosm6iozfm.jpg",
+      "media_url": "/assets/kakashi-cool-portrait-naruto-mobile-4k-agno06af8gchdkg4.jpg",
+      "type": "image",
+      "timestamp": "2025-11-10T12:00:00Z",
+      "expires_at": "2025-11-11T12:00:00Z",
+      "viewers": [
+        {
+          "user_id": "u002",
+          "username": "sakura_haruno"
+        },
+        {
+          "user_id": "u003",
+          "username": "goku_ssj"
+        },
+        {
+          "user_id": "u004",
+          "username": "light_kira"
+        }
+      ],
+      "views_count": 3
+    },
+    {
+      "id": "2",
+      "user_id": "u004",
+      "username": "light_kira",
+      "profile_pic": "/assets/Yagami.Light.1024.1422624.webp",
+      "media_url": "/assets/HD-wallpaper-kira-death-light-note-yagami-thumbnail.webp",
+      "type": "image",
+      "timestamp": "2025-11-09T20:00:00Z",
+      "expires_at": "2025-11-10T20:00:00Z",
+      "viewers": [
+        {
+          "user_id": "u005",
+          "username": "ryuk_shinigami"
+        },
+        {
+          "user_id": "u006",
+          "username": "johan_liebert"
+        }
+      ],
+      "views_count": 2
+    },
+    {
+      "id": "3",
+      "user_id": "u003",
+      "username": "goku_ssj",
+      "profile_pic": "/assets/Son.Goku.(DRAGON.BALL).1024.4301833.webp",
+      "media_url": "/assets/HD-wallpaper-drip-goku-son-goku-thumbnail.jpg",
+      "type": "video",
+      "timestamp": "2025-11-09T07:00:00Z",
+      "expires_at": "2025-11-10T07:00:00Z",
+      "viewers": [
+        {
+          "user_id": "u001",
+          "username": "naruto_uzumaki"
+        },
+        {
+          "user_id": "u007",
+          "username": "dr_tenma"
+        }
+      ],
+      "views_count": 2
+    },
+    {
+      "id": "4",
+      "user_id": "u006",
+      "username": "johan_liebert",
+      "profile_pic": "/assets/3139af7674efd089e7646946db150d22.jpg",
+      "media_url": "/assets/HD-wallpaper-johan-liebert-anime-boy-monster-thumbnail.jpg",
+      "type": "image",
+      "timestamp": "2025-11-08T19:00:00Z",
+      "expires_at": "2025-11-09T19:00:00Z",
+      "viewers": [
+        {
+          "user_id": "u004",
+          "username": "light_kira"
+        },
+        {
+          "user_id": "u007",
+          "username": "dr_tenma"
+        }
+      ],
+      "views_count": 2
+    },
+    {
+      "id": "5",
+      "user_id": "u007",
+      "username": "dr_tenma",
+      "profile_pic": "/assets/Tenma.Kenzo.1024.648894.webp",
+      "media_url": "/assets/tenma-story-hospital.jpg",
+      "type": "video",
+      "timestamp": "2025-11-07T15:00:00Z",
+      "expires_at": "2025-11-08T15:00:00Z",
+      "viewers": [
+        {
+          "user_id": "u006",
+          "username": "johan_liebert"
+        },
+        {
+          "user_id": "u001",
+          "username": "naruto_uzumaki"
+        }
+      ],
+      "views_count": 2
+    },
+    {
+      "id": "6",
+      "user_id": "u002",
+      "username": "sakura_haruno",
+      "profile_pic": "/assets/Sakura.Haruno.1024.4304602.webp",
+      "media_url": "/assets/sakura-story-training.jpg",
+      "type": "image",
+      "timestamp": "2025-11-10T08:30:00Z",
+      "expires_at": "2025-11-11T08:30:00Z",
+      "viewers": [
+        {
+          "user_id": "u001",
+          "username": "naruto_uzumaki"
+        },
+        {
+          "user_id": "u003",
+          "username": "goku_ssj"
+        }
+      ],
+      "views_count": 2
+    }
+  ],
+  "followers": [
+    {
+      "id": "p002",
+      "username": "light_kira",
+      "profile_pic": "/assets/Yagami.Light.1024.1422624.webp"
+    },
+    {
+      "id": "p005",
+      "username": "dr_tenma",
+      "profile_pic": "/assets/Tenma.Kenzo.1024.648894.webp"
+    },
+    {
+      "id": "p004",
+      "username": "goku_ssj",
+      "profile_pic": "/assets/Son.Goku.(DRAGON.BALL).1024.4301833.webp"
+    }
+  ]
+}
