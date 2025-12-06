@@ -1,6 +1,6 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
-import ThemeToggle from './themeToggle.jsx'
+import ThemeToggle from './ThemeToggle.jsx'
 
 const Sidebar = () => {
   const Navigate=useNavigate();
