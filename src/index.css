@@ -72,12 +72,3 @@
     height:100px;
     border-radius: 50%;
 }
-/* :root {
-  --border-color: white; /* default (light theme) */
-/* }
-
-[data-theme="dark"] {
-  --border-color: #212529; /* dark theme */
-/* }
- *
-
