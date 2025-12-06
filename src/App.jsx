@@ -1,7 +1,7 @@
 import React from 'react'
-import Sidebar from './Sidebar'
-import Feed from './feed.jsx'
-import Stories from './stories.jsx'
+import Sidebar from './Sidebar.jsx'
+import Feed from './Feed.jsx'
+import Stories from './Stories.jsx'
 import Suggestions from './Suggestions.jsx'
 
 
